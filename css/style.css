@@ -10,12 +10,6 @@
 	width: 100%;
 }
 
-button{
-	color: red;
-	background-color: transparent;
-	display: block;
-	margin: auto;
-}
 
 .content {
   overflow: hidden;
@@ -55,12 +49,6 @@ h3{
 	font-size: 50%;
 	}
 
-h4{
-	margin: 2% 0;
-	text-align: center;
-	font-size: 100%;
-	font-family: 'Source Sans Pro', sans-serif;
-}
 
 .titulo{
 	color: red;
@@ -101,7 +89,6 @@ footer{
 .svg-inline--fa.fa-w-14 {
 
     color: red;
-
  }
 
  .svg-inline--fa{
