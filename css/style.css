@@ -1,0 +1,108 @@
+
+
+.box{
+	background-color: white;
+	background: white;
+	background-repeat: no-repeat;
+	border: 2px solid gray;
+	padding: 2%;
+	margin-bottom: 2%;
+	width: 100%;
+}
+
+button{
+	color: red;
+	background-color: transparent;
+	display: block;
+	margin: auto;
+}
+
+.content {
+  overflow: hidden;
+  height: 3.6em;
+  line-height: 1.2em;
+  width: 200px;
+  text-align: center;
+}
+
+p{
+	font-family: 'PT Serif', serif;
+	margin: 2% 0;
+	width: 60%;
+	display: block;
+	margin: auto;
+}
+
+h1{
+	margin: 2% 0;
+	text-align: center;
+	color: red;
+	font-size: 250%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2{
+	margin: 2% 0;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	font-size: 70%;
+	}
+
+h3{
+	margin: 2% 0;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	font-size: 50%;
+	}
+
+h4{
+	margin: 2% 0;
+	text-align: center;
+	font-size: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titulo{
+	color: red;
+}
+
+.first--letter_red{
+	color: red;
+	font-size: 50px;
+}
+.resize{
+    padding: 10%;
+    display: block;
+	margin: auto;
+	height: 80%;
+	width: 100%;
+	margin-top:0px;
+}
+
+.texto--centrado{
+	margin-top: 2%;
+	text-align: center;
+}
+
+
+.margen{
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+footer{
+    background-color:white;  
+    color:  #808080; 
+    padding: 20px;
+    text-align: center; 
+    margin-bottom: 5%;
+}
+
+.svg-inline--fa.fa-w-14 {
+
+    color: red;
+
+ }
+
+ .svg-inline--fa{
+ 	color: red;}
